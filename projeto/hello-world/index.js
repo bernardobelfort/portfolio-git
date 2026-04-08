@@ -5,7 +5,7 @@ function exibirSelecao(pais, grupo) {
 }
 
 function exibirArtilheiro(nome, gols) {
-  return `${nome} é o artilheiro com ${gols} gols.`;
+  return `Artilheiro: ${nome} com ${gols} gols marcados.`;
 }
 
 function exibirPlacar(time1, gols1, time2, gols2) {
@@ -15,5 +15,6 @@ function exibirPlacar(time1, gols1, time2, gols2) {
 console.log(exibirSelecao("Brasil", "D"));
 console.log(exibirSelecao("Argentina", "A"));
 console.log(exibirArtilheiro("Vinicius Jr", 5));
+console.log(exibirArtilheiro("Mbappé", 4));
 console.log(exibirPlacar("Brasil", 3, "Argentina", 1));
 console.log(exibirPlacar("França", 2, "Alemanha", 2));

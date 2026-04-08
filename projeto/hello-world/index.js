@@ -16,3 +16,4 @@ console.log(exibirSelecao("Brasil", "D"));
 console.log(exibirSelecao("Argentina", "A"));
 console.log(exibirArtilheiro("Vinicius Jr", 5));
 console.log(exibirPlacar("Brasil", 3, "Argentina", 1));
+console.log(exibirPlacar("França", 2, "Alemanha", 2));

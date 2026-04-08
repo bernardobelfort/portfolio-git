@@ -24,6 +24,10 @@ cd portfolio-git
 - GitHub CLI (`gh`)
 - JavaScript (Node.js)
 
+## Sobre o exercício
+
+Este repositório foi construído como parte do EI1 — Portfólio Git da disciplina CIN0136. O objetivo foi praticar commits semânticos, branches, Pull Requests e resolução de conflitos de forma estruturada.
+
 ## Autor
 
 Bernardo Belfort — [@bernardobelfort](https://github.com/bernardobelfort)

@@ -5,7 +5,7 @@ function exibirSelecao(pais, grupo) {
 }
 
 function exibirArtilheiro(nome, gols) {
-  return `${nome} é o artilheiro com ${gols} gols.`;
+  return `Artilheiro: ${nome} com ${gols} gols marcados.`;
 }
 
 console.log(exibirSelecao("Brasil", "D"));

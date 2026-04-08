@@ -11,3 +11,4 @@ function exibirArtilheiro(nome, gols) {
 console.log(exibirSelecao("Brasil", "D"));
 console.log(exibirSelecao("Argentina", "A"));
 console.log(exibirArtilheiro("Vinicius Jr", 5));
+console.log(exibirArtilheiro("Mbappé", 4));
